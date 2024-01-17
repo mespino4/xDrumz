@@ -19,12 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/xDrumz-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.mespino4.xDrumz"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f3ec66a1-7e24-491e-9bae-c6788a81b058"
+      }
     }
   }
 }
