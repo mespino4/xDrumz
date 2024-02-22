@@ -24,9 +24,11 @@ xDrumz is a 3x3 Drum Application
 1. **Open the App:**
    - Launch the Drumming App on your mobile device.
 
-2. **Play Along:**
-   - Choose a pre-set rhythm or create your own beats.
-   - Use headphones for an immersive experience.
+2. **Play:**
+   - Tap on the drum pads to play a sound
+
+![app](assets/ss1.png)
+*Application running on an emulator*
 
 ## License
 This project is licensed under the [MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
